@@ -222,17 +222,29 @@ Based on work by SUPERNATURE2K'S FUZION THEME and some visuals from Cosmo Robosp
       </image>      
    </view>
    
-<view name="video">
+<view name="detailed">
       
-	<video name="md_video">
+	<image name="md_image">
         <pos>0.04 0.16</pos>
 		<origin>0 0</origin>
         <maxSize>0.61 0.61</maxSize>
-        <delay>1.6</delay>
+        <zIndex>42</zIndex>
+    </image> 
+	  
+</view> 
+   
+<view name="video">
+      
+	<video name="md_video">
+        <pos>0.28 0.45</pos>
+		<origin>0.5 0.5</origin>
+        <maxSize>0.523 0.516</maxSize>
+        <delay>1.5</delay>
         <zIndex>42</zIndex>         
         <showSnapshotNoVideo>true</showSnapshotNoVideo>
         <showSnapshotDelay>true</showSnapshotDelay>
     </video>
 	  
-   </view>   
+   </view> 
+  
 </theme>
