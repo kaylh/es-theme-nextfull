@@ -238,9 +238,9 @@ Based on work by SUPERNATURE2K'S FUZION THEME and some visuals from Cosmo Robosp
 	<video name="md_video">
         <pos>0.28 0.45</pos>
 		<origin>0.5 0.5</origin>
-        <maxSize>0.523 0.516</maxSize>
+        <maxSize>0.510 0.502</maxSize>
         <delay>1.5</delay>
-        <zIndex>42</zIndex>         
+        <zIndex>43</zIndex>         
         <showSnapshotNoVideo>true</showSnapshotNoVideo>
         <showSnapshotDelay>true</showSnapshotDelay>
     </video>
