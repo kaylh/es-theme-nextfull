@@ -225,9 +225,9 @@ Based on work by SUPERNATURE2K'S FUZION THEME and some visuals from Cosmo Robosp
 <view name="detailed">
       
 	<image name="md_image">
-        <pos>0.04 0.16</pos>
-		<origin>0 0</origin>
-        <maxSize>0.61 0.61</maxSize>
+        <pos>0.28 0.45</pos>
+		<origin>0.5 0.5</origin>
+        <maxSize>0.523 0.516</maxSize>
         <zIndex>42</zIndex>
     </image> 
 	  
