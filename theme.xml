@@ -6,7 +6,6 @@ Based on work by SUPERNATURE2K'S FUZION THEME and some visuals from Cosmo Robosp
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
    <formatVersion>7</formatVersion>
-   <linearSmooth>true</linearSmooth>
    <linear>true</linear>
   <include subset="colorset" name="default" displayName="${default}">./_inc/colors/default.xml</include>
   
